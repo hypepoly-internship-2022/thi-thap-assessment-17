@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/PaintIn3D/InGame/Examples/21    UV.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
